@@ -176,11 +176,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "774b3c0a336187f9",
+  "active": "57a80392b2507d92",
   "lastOpenFiles": [
+    "1.DSA",
     "Untitled.base",
     "Welcome.md"
   ]
