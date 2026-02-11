@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1.DSA/Top_150+_DSA.pdf"
+                "file": "1.DSA/1.25 DSA Patterns/Day1-2pointers.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Top_150+_DSA"
+              "title": "Day1-2pointers"
             }
           }
         ]
@@ -193,10 +193,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a1182493f0d6b5c",
+  "active": "774b3c0a336187f9",
   "lastOpenFiles": [
-    "README.md",
     "1.DSA/Top_150+_DSA.pdf",
+    "1.DSA/1.25 DSA Patterns/Day1-2pointers.pdf",
+    "1.DSA/1.25 DSA Patterns",
+    "README.md",
     "1.DSA",
     "Untitled.base",
     "Welcome.md"
