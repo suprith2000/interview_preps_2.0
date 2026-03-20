@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1.DSA/1.25 DSA Patterns/Day1-two pointers.pdf"
+                "file": "GIT/GIT_interview_questions.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Day1-two pointers"
+              "title": "GIT_interview_questions"
             }
           }
         ]
@@ -195,12 +195,18 @@
   },
   "active": "57a80392b2507d92",
   "lastOpenFiles": [
-    "1.DSA/Top_150+_DSA.pdf",
-    "1.DSA/1.25 DSA Patterns/Day1-two pointers.pdf",
-    "1.DSA/1.25 DSA Patterns",
+    "JAVA/Scenario_based_questions.pdf",
+    "JAVA/Exception_handling.pdf",
+    "JAVA/Unconfirmed 744300.crdownload",
+    "System Design/System_Design_Rules.pdf",
+    "System Design",
+    "GIT/GIT_interview_questions.pdf",
+    "GIT/Unconfirmed 861844.crdownload",
+    "GIT",
+    "SQL/SQL_interview_questions.pdf",
+    "SQL/Unconfirmed 397756.crdownload",
+    "SQL",
     "README.md",
-    "1.DSA",
-    "Untitled.base",
     "Welcome.md"
   ]
 }
