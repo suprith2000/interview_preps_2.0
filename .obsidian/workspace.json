@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "GIT/GIT_interview_questions.pdf"
+                "file": "AWS/AWS_interview.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "GIT_interview_questions"
+              "title": "AWS_interview"
             }
           }
         ]
@@ -193,19 +193,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "57a80392b2507d92",
+  "active": "774b3c0a336187f9",
   "lastOpenFiles": [
-    "JAVA/Scenario_based_questions.pdf",
-    "JAVA/Exception_handling.pdf",
-    "JAVA/Unconfirmed 744300.crdownload",
-    "System Design/System_Design_Rules.pdf",
-    "System Design",
-    "GIT/GIT_interview_questions.pdf",
-    "GIT/Unconfirmed 861844.crdownload",
-    "GIT",
-    "SQL/SQL_interview_questions.pdf",
-    "SQL/Unconfirmed 397756.crdownload",
-    "SQL",
+    "API/API_basics.pdf",
+    "1.DSA/Top_150+_DSA.pdf",
+    "1.DSA/Imp_DSA_questions.pdf",
+    "1.DSA/DSA_pattern.pdf",
+    "1.DSA/DSA_notes.pdf",
+    "1.DSA/DSA_revision.pdf",
+    "SQL/sql_window_functions.pdf",
+    "logic_building/Logic_building.pdf",
+    "logic_building/Unconfirmed 206222.crdownload",
+    "logic_building",
+    "1.DSA/logic_building",
     "README.md",
     "Welcome.md"
   ]
