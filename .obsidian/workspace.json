@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AWS/AWS_interview.pdf"
+                "file": "JAVA/Memory_managment.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "AWS_interview"
+              "title": "Memory_managment"
             }
           }
         ]
@@ -195,17 +195,17 @@
   },
   "active": "774b3c0a336187f9",
   "lastOpenFiles": [
+    "JAVA/Java_memory_leaks.pdf",
+    "JAVA/java_interview_qa.pdf",
+    "JAVA/java_dsa.pdf",
+    "JAVA/distributed_cache_systems.pdf",
+    "JAVA/java_aws.pdf",
+    "GIT/GIT_interview_questions.pdf",
+    "System Design/System_Design_Rules.pdf",
+    "API/API_interview_questions.pdf",
     "API/API_basics.pdf",
-    "1.DSA/Top_150+_DSA.pdf",
-    "1.DSA/Imp_DSA_questions.pdf",
-    "1.DSA/DSA_pattern.pdf",
-    "1.DSA/DSA_notes.pdf",
-    "1.DSA/DSA_revision.pdf",
-    "SQL/sql_window_functions.pdf",
     "logic_building/Logic_building.pdf",
-    "logic_building/Unconfirmed 206222.crdownload",
-    "logic_building",
-    "1.DSA/logic_building",
+    "DSA_coding_practise/ValideDate.java~",
     "README.md",
     "Welcome.md"
   ]
