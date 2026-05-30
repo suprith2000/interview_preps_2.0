@@ -11,12 +11,14 @@
             "id": "774b3c0a336187f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "JAVA/Memory_managment.pdf"
+                "file": "API/12_API Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Memory_managment"
+              "icon": "lucide-file",
+              "title": "12_API Security"
             }
           }
         ]
@@ -195,17 +197,19 @@
   },
   "active": "774b3c0a336187f9",
   "lastOpenFiles": [
-    "JAVA/Java_memory_leaks.pdf",
-    "JAVA/java_interview_qa.pdf",
-    "JAVA/java_dsa.pdf",
-    "JAVA/distributed_cache_systems.pdf",
-    "JAVA/java_aws.pdf",
-    "GIT/GIT_interview_questions.pdf",
-    "System Design/System_Design_Rules.pdf",
-    "API/API_interview_questions.pdf",
-    "API/API_basics.pdf",
-    "logic_building/Logic_building.pdf",
-    "DSA_coding_practise/ValideDate.java~",
+    "JAVA/Spring Annotations.pdf",
+    "JAVA/Unconfirmed 831478.crdownload",
+    "Microservices/microservices_patterns.pdf",
+    "Microservices/Unconfirmed 95235.crdownload",
+    "Microservices",
+    "API/Microservices",
+    "API/11_API design best practices.pdf",
+    "API/12_API Security.md",
+    "API/10_API Scaling.md",
+    "API/9_API Integration.pdf",
+    "API/6_API Status Codes.pdf",
+    "API/5_API Authentication.pdf",
+    "API/4_API Terminologies.pdf",
     "README.md",
     "Welcome.md"
   ]
